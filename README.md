@@ -1,3 +1,3 @@
 # Hello-World
 Just another repository
-I making this change to practice adding a commit.
+I'm making this change to practice adding a commit.
